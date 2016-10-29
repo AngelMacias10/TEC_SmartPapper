@@ -139,7 +139,7 @@ Descripción varchar (80),
 PRIMARY KEY (`Nombre`)
 )
 
-
+DROP DATABASE MiPapeleriaInt
 
 
 SET SQL_MODE=@OLD_SQL_MODE;
